@@ -51,6 +51,7 @@ Examples of integrating MuleSoft with cloud platforms and SaaS APIs.
 A look at how APIs, API management, and integration patterns can be applied to agentic systems.
 
 - [Service Desk API](https://github.com/abelisle-mulesoft/service-desk-api) — Spring Boot API used to explore MCP Bridge, Anypoint Omni Gateway, and agentic API management.
+- [MCP Governance](https://github.com/abelisle-mulesoft/mcp-governance) — Hands-on exploration of MCP Bridge, MCP client integration, and MCP management and governance using Anypoint Omni Gateway.
 
 ## Connect
 
